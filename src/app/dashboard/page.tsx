@@ -86,6 +86,7 @@ function DashboardContent() {
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const recognitionRef = useRef<any>(null)
   const dragRef = useRef<HTMLDivElement>(null)
+  const messageInputRef = useRef<HTMLInputElement>(null)
 
   // Profile state
   const [userCredits, setUserCredits] = useState(0)
@@ -231,6 +232,49 @@ function DashboardContent() {
       setWaterLiters(profile.water_cleaned_liters || 0)
     }
   }, [profile])
+
+  // Load saved conversations from localStorage on mount
+  useEffect(() => {
+    const loadSavedConversations = () => {
+      try {
+        const savedHistory = localStorage.getItem('conversationHistory')
+        const savedTitles = localStorage.getItem('conversationTitles')
+
+        if (savedHistory) {
+          const parsed = JSON.parse(savedHistory)
+          // Convert timestamp strings back to Date objects
+          const convertedHistory: {[key: string]: Message[]} = {}
+          for (const [key, messages] of Object.entries(parsed)) {
+            convertedHistory[key] = (messages as any[]).map(msg => ({
+              ...msg,
+              timestamp: new Date(msg.timestamp)
+            }))
+          }
+          setConversationHistory(convertedHistory)
+        }
+
+        if (savedTitles) {
+          setConversationTitles(JSON.parse(savedTitles))
+        }
+      } catch (error) {
+        console.error('Error loading saved conversations:', error)
+      }
+    }
+
+    loadSavedConversations()
+  }, [])
+
+  // Save conversations to localStorage whenever they change
+  useEffect(() => {
+    if (Object.keys(conversationHistory).length > 0) {
+      try {
+        localStorage.setItem('conversationHistory', JSON.stringify(conversationHistory))
+        localStorage.setItem('conversationTitles', JSON.stringify(conversationTitles))
+      } catch (error) {
+        console.error('Error saving conversations:', error)
+      }
+    }
+  }, [conversationHistory, conversationTitles])
 
   // Enhanced typing animation with smooth transitions
   useEffect(() => {
@@ -404,6 +448,11 @@ function DashboardContent() {
     setMessage('')
     setChatLoading(true)
 
+    // Focus back on input after sending message
+    setTimeout(() => {
+      messageInputRef.current?.focus()
+    }, 100)
+
     try {
       const { data: { session }, error: sessionError } = await supabase.auth.getSession()
 
@@ -491,6 +540,10 @@ function DashboardContent() {
       setMessages(prev => [...prev, errorMessage])
     } finally {
       setChatLoading(false)
+      // Focus back on input after response
+      setTimeout(() => {
+        messageInputRef.current?.focus()
+      }, 100)
     }
   }
 
@@ -1217,6 +1270,7 @@ function DashboardContent() {
                       </Button>
 
                       <Input
+                        ref={messageInputRef}
                         value={message}
                         onChange={(e) => setMessage(e.target.value)}
                         onKeyPress={handleKeyPress}
@@ -1758,7 +1812,9 @@ function DashboardContent() {
                     <button
                       onClick={() => {
                         setShowCreditsModal(false)
-                        router.push('/pricing')
+                        // Use locale-aware routing
+                        const locale = window.location.pathname.split('/')[1] || 'en'
+                        router.push(`/${locale}/pricing`)
                       }}
                       className="text-blue-400 hover:text-blue-300 text-sm transition-colors"
                     >
