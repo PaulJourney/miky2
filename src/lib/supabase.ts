@@ -52,12 +52,8 @@ export async function signUp(email: string, password: string, fullName: string, 
         data: {
           full_name: fullName,
           referred_by: referralCode || null
-<<<<<<< HEAD
-        }
-=======
         },
         emailRedirectTo: `${process.env.NEXT_PUBLIC_APP_URL || 'https://www.miky.ai'}/auth/callback`
->>>>>>> ea674b6 (Complete registration system implementation)
       }
     })
 
