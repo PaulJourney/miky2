@@ -89,18 +89,6 @@ export function AuthModals({
       return
     }
 
-<<<<<<< HEAD
-    const { error } = await signUp(signUpForm.email, signUpForm.password, signUpForm.fullName, signUpForm.referralCode)
-
-    if (error) {
-      setAuthError(error.message)
-      setAuthLoading(false)
-    } else {
-      resetAuthModals()
-      setAuthLoading(false)
-      setAuthSuccess(tMessages('signUpSuccess'))
-      onSignUpSuccess?.()
-=======
     try {
       const { error } = await signUp(signUpForm.email, signUpForm.password, signUpForm.fullName, signUpForm.referralCode)
 
@@ -133,7 +121,6 @@ export function AuthModals({
       console.error('Unexpected registration error:', err)
       setAuthError('An unexpected error occurred. Please try again.')
       setAuthLoading(false)
->>>>>>> ea674b6 (Complete registration system implementation)
     }
   }
 
