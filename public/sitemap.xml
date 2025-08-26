@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage - All Languages -->
+  <url>
+    <loc>https://miky.ai/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Pricing Pages -->
+  <url>
+    <loc>https://miky.ai/en/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/pricing"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/pricing"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/pricing"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- How It Works Pages -->
+  <url>
+    <loc>https://miky.ai/en/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/how-it-works"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/how-it-works"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://miky.ai/en/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://miky.ai/it/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://miky.ai/es/how-it-works"/>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://miky.ai/en/legal/privacy</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it/legal/privacy</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es/legal/privacy</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/en/legal/terms</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it/legal/terms</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es/legal/terms</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/en/legal/cookie</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/it/legal/cookie</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://miky.ai/es/legal/cookie</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>

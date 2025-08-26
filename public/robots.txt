@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Allow search engines to index all localized content
+Allow: /en/
+Allow: /it/
+Allow: /es/
+
+# Disallow private/admin areas
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /api/
+Disallow: /_next/
+Disallow: /auth/
+
+# Allow specific public pages
+Allow: /en/pricing
+Allow: /it/pricing
+Allow: /es/pricing
+Allow: /en/how-it-works
+Allow: /it/how-it-works
+Allow: /es/how-it-works
+Allow: /en/legal/
+Allow: /it/legal/
+Allow: /es/legal/
+
+# Sitemap location
+Sitemap: https://miky.ai/sitemap.xml
+
+# Crawl delay (optional, for being respectful)
+Crawl-delay: 1
