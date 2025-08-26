@@ -1,0 +1,1025 @@
+{
+  "hero": {
+    "title": "L'AI che fa la",
+    "titleHighlight": "Vera Differenza",
+    "subtitle": "Miky è il tuo assistente AI con competenze specializzate. Ricevi supporto esperto e contribuisci a pulire l'oceano: chat dopo chat.",
+    "cta": "Inizia con 100 Crediti Gratis",
+    "demo": "Scopri di più",
+    "badge": "1 Messaggio = 1L Oceano Pulito"
+  },
+  "stats": {
+    "activeUsers": "Utenti Attivi",
+    "waterCleaned": "L Puliti",
+    "specialists": "Specialisti AI"
+  },
+  "features": {
+    "title": "Perché",
+    "titleHighlight": "Miky.ai?",
+    "subtitle": "Più di una semplice AI - stiamo costruendo un futuro migliore, messaggio dopo messaggio.",
+    "aiSpecialists": {
+      "title": "Specialisti AI",
+      "description": "Ottieni assistenza di livello esperto per lavoro, studi, salute, business e crescita personale."
+    },
+    "oceanImpact": {
+      "title": "Benefit Ambiente",
+      "description": "Ogni messaggio che invii pulisce 1 litro di acqua oceanica attraverso The Ocean Cleanup."
+    },
+    "referralRewards": {
+      "title": "Referral Plan",
+      "description": "Guadagna invitando amici e costruisci il tuo Network. 5 livelli di commissioni da ogni abbonamento."
+    }
+  },
+  "specialists": {
+    "title": "Incontra i Tuoi Specialisti",
+    "titleHighlight": "AI",
+    "subtitle": "Ogni specialista è addestrato per aree di competenza specifiche. Ottieni assistenza di livello professionale all'istante.",
+    "cta": "Prova Tutti gli Specialisti Gratis",
+    "academic": {
+      "name": "Accademico",
+      "description": "Specialista in ricerca avanzata e scrittura accademica",
+      "fullDescription": "Docente altamente qualificato, specializzato in ricerca avanzata e scrittura accademica. Offre supporto professionale per tesi, dissertazioni, esami di scuola superiore e universitari, articoli scientifici e compiti complessi in tutte le discipline. Produce contenuti accademici di altissimo livello, in linea con standard globali come MIT e Cambridge."
+    },
+    "marketer": {
+      "name": "Marketer",
+      "description": "Esperto di marketing strategico e posizionamento del brand",
+      "fullDescription": "Stratega di Marketing con competenze avanzate in brand positioning, crescita organica, campagne a pagamento, SEO/SEM, analisi dei dati, funnel di conversione, copywriting persuasivo e gestione social media (Instagram, TikTok, X, LinkedIn, Facebook). Supporta imprenditori, agenzie e creator nella creazione e scalabilità di progetti digitali."
+    },
+    "engineer": {
+      "name": "Ingegnere",
+      "description": "Ingegnere software senior per tutte le esigenze di codifica",
+      "fullDescription": "Informatico Senior capace di scrivere, correggere e revisionare codice in oltre 20 linguaggi: Python, JavaScript, TypeScript, Rust, Go, C++, C#, Solidity, Swift, Kotlin, Java, Ruby, PHP, HTML/CSS, SQL, Bash e molti altri. Fornisce soluzioni architetturali, debugging complesso, ottimizzazione delle prestazioni e integrazione AI."
+    },
+    "coach": {
+      "name": "Coach",
+      "description": "Coach di vita e successo per la crescita personale e professionale",
+      "fullDescription": "Coach di Vita & Performance di alto livello, in grado di aiutarti a superare blocchi emotivi, organizzare la tua vita, migliorare la produttività, trovare motivazione, sviluppare abitudini vincenti, lavorare su relazioni personali, benessere fisico e crescita personale. Nessun argomento è troppo complesso per Miky."
+    },
+    "lawyer": {
+      "name": "Avvocato",
+      "description": "Esperto legale per contratti e consulenze",
+      "fullDescription": "Avvocato ultra-competente, specializzato in diritto nazionale e internazionale. Offre consulenza avanzata in diritto civile, penale, commerciale, tributario, del lavoro, amministrativo e della tecnologia. Redige documenti legali, contratti, pareri, difese, esposti, denunce e atti preventivi con precisione e rigore accademico."
+    },
+    "medical": {
+      "name": "Medico",
+      "description": "Specialista in orientamento medico, dieta e salute",
+      "fullDescription": "Medico Consulente altamente specializzato, in grado di analizzare sintomi, referti, radiografie, TAC, analisi del sangue e cartelle cliniche. Supporta la diagnosi, offre indicazioni sullo stile di vita, piani alimentari, approcci integrativi e ti aiuta a comprendere qualsiasi referto medico. Puoi anche inviare immagini e documenti per un'analisi approfondita."
+    },
+    "bizGuru": {
+      "name": "Guru Business",
+      "description": "Esperto business d'élite per creare ricchezza",
+      "fullDescription": "Business Expert d'élite, focalizzato su strategie di monetizzazione rapide. Genera idee di business su misura, identifica gap di mercato e definisce piani di ricavo allineati a tattiche imprenditoriali di livello mondiale. Ti guida in modo efficiente verso la creazione di ricchezza con strategie comprovate."
+    },
+    "godMode": {
+      "name": "Modalità Dio",
+      "description": "Esploratore AI filosofico per domande profonde",
+      "fullDescription": "Filosofo Esploratore, capace di rispondere alle domande più profonde e misteriose sull'universo, l'esistenza, la coscienza, il libero arbitrio, il destino. Ti accompagna in un viaggio intellettuale e spirituale. Ma prima ti chiede: Sei davvero sicuro di esistere?"
+    }
+  },
+  "impact": {
+    "title": "Ogni Messaggio",
+    "titleHighlight": "Conta",
+    "subtitle": "Attraverso le nostre donazioni dirette a The Ocean Cleanup, ogni chat che fai con Miky aiuta a rimuovere la plastica dai nostri oceani. Ora l'AI ha uno scopo.",
+    "badge": "1 Messaggio = 1 Litro Oceano Pulito",
+    "signin": "Accedi",
+    "getStarted": "Inizia"
+  },
+  "howItWorks": {
+    "title": "Come Funziona",
+    "titleHighlight": "Miky",
+    "titleEnd": "AI",
+    "subtitle": "Assistenza AI professionale che crea un vero impatto ambientale. Ecco tutto quello che devi sapere.",
+    "back": "Indietro",
+    "aiServices": {
+      "title": "Servizi AI",
+      "subtitle": "Incontra il tuo team di 8 esperti AI specializzati, ognuno addestrato per domini professionali specifici.",
+      "service1": {
+        "title": "8 Specialisti AI",
+        "description": "Ogni persona è addestrata con conoscenze ed expertise specializzate.",
+        "examples": ["Ricerca accademica e scrittura", "Strategie di marketing e campagne", "Revisione e sviluppo codice", "Redazione documenti legali"]
+      },
+      "service2": {
+        "title": "Capacità Avanzate",
+        "description": "Alimentato dai modelli più recenti di OpenAI con supporto input multimodale.",
+        "examples": ["Input di testo, voce e immagini", "Analisi documenti", "Generazione codice", "Risoluzione problemi creativa"]
+      },
+      "service3": {
+        "title": "Qualità Professionale",
+        "description": "Ottieni aiuto di livello esperto, paragonabile all'assunzione di consulenti di alto livello.",
+        "examples": ["Standard accademici livello MIT", "Soluzioni enterprise-grade", "Revisioni conformità legale", "Analisi referti medici"]
+      },
+      "capabilities": {
+        "title": "Cosa Puoi Fare",
+        "academic": {
+          "title": "Accademico e Ricerca",
+          "description": "Scrivere articoli, analizzare dati, condurre ricerche, citare fonti correttamente"
+        },
+        "business": {
+          "title": "Business e Marketing",
+          "description": "Creare strategie, analizzare mercati, scrivere copy, ottimizzare campagne"
+        },
+        "development": {
+          "title": "Codice e Sviluppo",
+          "description": "Scrivere codice, debuggare problemi, rivedere e ottimizzare architetture"
+        },
+        "legal": {
+          "title": "Legale e Medico",
+          "description": "Redigere documenti, analizzare referti, fornire guida, garantire conformità"
+        }
+      }
+    },
+    "oceanImpact": {
+      "title": "Impatto Ecologico",
+      "subtitle": "Ogni conversazione aiuta a pulire i nostri oceani. Ecco come il tuo utilizzo AI crea un vero aiuto ambientale.",
+      "impact1": {
+        "title": "Effetto Diretto",
+        "description": "Per ogni messaggio che invii Miky supporta la pulizia 1 litro di acqua oceanica.",
+        "stat": "1 Messaggio = 1 Litro Pulito"
+      },
+      "impact2": {
+        "title": "Pulizia Oceani",
+        "description": "Miky supporta organizzazioni mondiali impegnate nella rimozione della plastica dagli oceani.",
+        "stat": "1M+ Litri Puliti"
+      },
+      "impact3": {
+        "title": "Un futuro Migliore",
+        "description": "Unisciti alla comunità di Miky che sta cambiando in meglio il futuro degli oceani.",
+        "stat": "50K+ Contributori Attivi"
+      },
+      "individualImpact": {
+        "title": "Il Tuo Impatto Individuale",
+        "example1": {
+          "messages": "100 messaggi",
+          "cleaned": "100 litri puliti",
+          "equivalent": "Equivalente a 2 vasche da bagno"
+        },
+        "example2": {
+          "messages": "1k messaggi",
+          "cleaned": "1k litri puliti",
+          "equivalent": "Equivalente a una piccola piscina"
+        },
+        "example3": {
+          "messages": "10k messaggi",
+          "cleaned": "10k litri puliti",
+          "equivalent": "Equivalente a una piscina olimpica"
+        },
+        "community": "La nostra comunità ha già pulito oltre",
+        "communityAmount": "1 milione di litri",
+        "communityEnd": "di acqua oceanica!"
+      }
+    },
+    "referralProgram": {
+      "title": "Programma Referral",
+      "subtitle": "Guadagna denaro condividendo Miky tramite il nostro sistema di commissioni a 5 livelli.",
+      "calculator": {
+        "title": "Calcolatore Guadagni",
+        "networkSize": "Network su 5 livelli",
+        "estimatedEarnings": "I tuoi guadagni stimati con",
+        "members": "membri"
+      },
+      "howItWorks": {
+        "title": "Come Funziona",
+        "step1": {
+          "title": "Condividi il Tuo Link",
+          "description": "Ottieni il tuo codice referral unico"
+        },
+        "step2": {
+          "title": "Gli Amici si Abbonano",
+          "description": "Ricevono crediti bonus, tu guadagni commissioni"
+        },
+        "step3": {
+          "title": "Ricevi Pagamenti Mensili",
+          "description": "Via PayPal, pagamento minimo $25"
+        }
+      },
+      "examples": {
+        "title": "Esempi di Guadagno",
+        "example1": "Con 500 abbonati misti su 5 livelli",
+        "example2": "Con 500 abbonati misti su 5 livelli",
+        "example3": "Con 2.000 abbonati misti su 5 livelli"
+      },
+      "commissionStructure": "Struttura Commissioni",
+      "plusPlan": "Piano Plus ($5 totale)",
+      "proPlan": "Piano Pro ($15 totale)"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "subtitle": "Tutto quello che devi sapere sull'utilizzo di Miky.ai",
+      "questions": [
+        {
+          "question": "Cosa succede quando finisco i crediti?",
+          "answer": "Puoi aggiornare il tuo piano o acquistare crediti aggiuntivi. Gli utenti gratuiti dovranno aspettare il rinnovo crediti del mese successivo."
+        },
+        {
+          "question": "I crediti scadono?",
+          "answer": "No, i crediti non scadono mai. Tutti i crediti non utilizzati dalla tua quota mensile o acquistati rimarranno nel tuo account."
+        },
+        {
+          "question": "Posso cambiare piano in qualsiasi momento?",
+          "answer": "Sì, puoi aggiornare o declassare il tuo piano in qualsiasi momento. Le modifiche hanno effetto dal ciclo di fatturazione successivo."
+        },
+        {
+          "question": "Come funziona la pulizia degli oceani?",
+          "answer": "Ogni messaggio inviato attraverso Miky.ai contribuisce a pulire 1 litro di acqua oceanica attraverso la nostra partnership con The Ocean Cleanup. Finanziamo la loro tecnologia innovativa e le operazioni di pulizia."
+        },
+        {
+          "question": "Come funzionano le commissioni referral?",
+          "answer": "Guadagni commissioni su 5 livelli di referral. Le commissioni vengono pagate mensilmente via PayPal. Pagamento minimo $25."
+        },
+        {
+          "question": "Le risposte AI sono accurate?",
+          "answer": "I nostri specialisti AI sono alimentati da modelli avanzati e addestrati su dataset specializzati. Tuttavia, verifica sempre le informazioni importanti, specialmente per consigli legali o medici."
+        },
+        {
+          "question": "Posso usare Miky.ai per scopi commerciali?",
+          "answer": "Sì, tutti i piani includono diritti di utilizzo commerciale. I piani Pro includono funzionalità aggiuntive per uso business."
+        },
+        {
+          "question": "I miei dati sono sicuri?",
+          "answer": "Sì, utilizziamo crittografia enterprise-grade e seguiamo politiche di privacy rigorose. Non vendiamo mai i tuoi dati o li utilizziamo per training senza consenso."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pronto per Iniziare?",
+      "subtitle": "Unisciti a oltre 50mila persone che stanno usando Miky.",
+      "signIn": "Accedi",
+      "getStarted": "Inizia"
+    }
+  },
+  "pricing": {
+    "title": "Scegli il Tuo Piano",
+    "subtitle": "Seleziona il piano perfetto per le tue esigenze di assistenza AI. Ogni messaggio aiuta a pulire i nostri oceani.",
+    "loading": "Caricamento...",
+    "mostPopular": "Più Popolare",
+    "month": "/mese",
+    "credits": "crediti",
+    "support": "supporto",
+    "currentPlan": "Piano Attuale",
+    "startFree": "Inizia Gratis",
+    "select": "Seleziona",
+    "upgrade": "Aggiorna a",
+    "downgrade": "Declassa a",
+    "plans": {
+      "free": {
+        "name": "Gratuito",
+        "support": "Standard"
+      },
+      "plus": {
+        "name": "Plus",
+        "support": "Veloce"
+      },
+      "pro": {
+        "name": "Pro",
+        "support": "Prioritario"
+      }
+    },
+    "customCredits": {
+      "title": "Acquista Crediti Personalizzati",
+      "subtitle": "Acquista esattamente quello che ti serve. I crediti non scadono mai.",
+      "totalCost": "Costo totale",
+      "buyCredits": "Acquista Crediti"
+    }
+  },
+  "refer": {
+    "title": "Invita e Guadagna",
+    "subtitle": "Condividi Miky.ai e guadagna denaro attraverso il nostro sistema di commissioni a 5 livelli",
+    "loading": "Caricamento...",
+    "loginRequired": "Effettua l'accesso per accedere al tuo dashboard referral",
+    "signIn": "Accedi",
+    "getStarted": "Inizia",
+    "stats": {
+      "totalEarnings": "Guadagni Totali",
+      "availableForWithdraw": "Disponibile per Prelievo",
+      "networkSize": "Dimensione Network",
+      "thisMonth": "Questo Mese",
+      "activePlan": "🎉 Congratulazioni! Il Tuo Account è Attivo",
+      "activePlanDescription": "Stai guadagnando commissioni su tutti i tuoi referral con il tuo piano {plan}.",
+      "inactivePeriodMessage": "Durante il tuo periodo inattivo, hai perso ${amount} in guadagni potenziali. Mantieni il tuo account attivo per massimizzare i tuoi guadagni!",
+      "activateAccount": "Attiva il Tuo Account per Guadagnare Commissioni",
+      "activateAccountDescription": "Hai bisogno di un piano Plus o Pro attivo per ricevere commissioni referral. Mentre il tuo account era inattivo, hai perso ${amount} in guadagni potenziali.",
+      "upgradeToStartEarning": "Aggiorna per Iniziare a Guadagnare",
+      "monthlyGrowth": "+12.5% questo mese",
+      "readyForPayout": "Pronto per il pagamento",
+      "activeReferrals": "Referral attivi",
+      "vsLastMonth": "vs ${amount}",
+      "pendingEarnings": "Guadagni in Sospeso"
+    },
+    "referralLink": {
+      "title": "Il Tuo Link Referral",
+      "description": "Condividi questo link con gli amici e guadagna commissioni sui loro abbonamenti",
+      "howReferralsWork": "Come funzionano i referral",
+      "copied": "Copiato!",
+      "copy": "Copia Link",
+      "share": "Condividi",
+      "referralCode": "Il tuo codice referral:"
+    },
+    "networkBreakdown": {
+      "title": "Analisi Network",
+      "users": "utenti",
+      "thisMonth": "questo mese"
+    },
+    "recentEarnings": {
+      "title": "Guadagni Recenti",
+      "level": "Livello",
+      "date": "Data"
+    },
+    "withdrawEarnings": {
+      "title": "Preleva Guadagni",
+      "availableForWithdrawal": "Disponibile per prelievo",
+      "withdrawToPaypal": "Preleva su PayPal",
+      "minimumWithdrawal": "Prelievo minimo: $25",
+      "insufficientBalance": "Saldo Insufficiente"
+    },
+    "commissionStructure": {
+      "title": "Struttura Commissioni",
+      "plusPlan": "Piano Plus ($5 totale)",
+      "proPlan": "Piano Pro ($15 totale)"
+    },
+    "howItWorksModal": {
+      "title": "Come Funzionano i Referral",
+      "subtitle": "Guadagna denaro condividendo Miky.ai con amici e famiglia",
+      "forNewUsers": {
+        "title": "Per i Nuovi Utenti",
+        "description": "Quando qualcuno usa il tuo link referral per iscriversi, riceve 200 crediti gratuiti per iniziare il suo viaggio con Miky.ai."
+      },
+      "forYou": {
+        "title": "Per Te",
+        "description": "Guadagni commissioni mensili quando i tuoi referral si abbonano ai piani Plus o Pro:",
+        "plusPlan": "Piano Plus: $5 totali su 5 livelli",
+        "proPlan": "Piano Pro: $15 totali su 5 livelli"
+      },
+      "importantNote": {
+        "title": "Nota Importante",
+        "description": "Per ricevere e prelevare i tuoi guadagni, devi avere un piano Plus o Pro attivo."
+      },
+      "gotIt": "Capito, iniziamo!"
+    },
+    "upgradeRequired": {
+      "title": "Aggiornamento Richiesto",
+      "description": "Per prelevare i tuoi guadagni referral, hai bisogno di un piano Plus o Pro attivo. Aggiorna ora per iniziare a guadagnare e prelevare le tue commissioni!",
+      "upgradeYourPlan": "Aggiorna il Tuo Piano",
+      "maybeLater": "Forse più tardi"
+    },
+    "shareModal": {
+      "title": "Condividi il Tuo Link Referral",
+      "subtitle": "Scegli come vorresti condividere Miky.ai",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "telegram": "Telegram",
+      "copyLink": "Copia Link",
+      "yourReferralLink": "Il tuo link referral:",
+      "shareMessage": "🎁 Ottieni 200 crediti IA GRATUITI su Miky.ai! Unisciti a me sulla piattaforma IA che pulisce i nostri oceani - ogni messaggio che invii aiuta a rimuovere la plastica dall'oceano attraverso The Ocean Cleanup. Inizia con 200 crediti gratuiti e fai la differenza! 🌊✨",
+      "emailSubject": "🎁 Ottieni 200 Crediti IA Gratuiti - Unisciti a Miky.ai!",
+      "emailBody": "Ciao!\n\n🎁 Ottieni 200 crediti IA GRATUITI su Miky.ai! Unisciti a me sulla piattaforma IA che pulisce i nostri oceani - ogni messaggio che invii aiuta a rimuovere la plastica dall'oceano attraverso The Ocean Cleanup. Inizia con 200 crediti gratuiti e fai la differenza! 🌊✨\n\nClicca qui per richiedere i tuoi 200 crediti gratuiti: {link}\n\nFacciamo insieme un impatto positivo!\n\nI migliori saluti",
+      "tweetText": "🎁 Ottieni 200 crediti IA GRATUITI su @MikyAI! 🤖 IA che pulisce i nostri oceani 🌊 Ogni chat aiuta a rimuovere la plastica attraverso @TheOceanCleanup. Unisciti a me:"
+    },
+    "withdrawModal": {
+      "title": "Preleva Guadagni",
+      "available": "Disponibile: ${amount}",
+      "paypalEmail": "Email PayPal",
+      "withdrawalAmount": "Importo Prelievo",
+      "withdrawalInformation": "Informazioni Prelievo",
+      "confirmationEmail": "Verrà inviata email di conferma",
+      "paypalTransfer": "Il trasferimento PayPal richiede 1-3 giorni lavorativi",
+      "requestWithdrawal": "Richiedi Prelievo",
+      "processing": "Elaborazione...",
+      "successMessage": "Richiesta di prelievo di ${amount} inviata! Riceverai un'email di conferma a breve.",
+      "errorMessage": "Impossibile inviare la richiesta di prelievo. Riprova."
+    },
+    "upgradeMessages": {
+      "upgradeError": "Impossibile avviare il processo di upgrade. Riprova.",
+      "buyCreditsError": "Impossibile avviare il processo di acquisto. Riprova."
+    }
+  },
+  "legal": {
+    "terms": {
+      "title": "Termini di Servizio",
+      "lastUpdated": "Ultimo aggiornamento: 9 gennaio 2025",
+      "back": "Indietro",
+      "acceptanceOfTerms": {
+        "title": "1. ACCETTAZIONE DEI TERMINI",
+        "content": "Accedendo, utilizzando o registrandoti a Miky.ai (\"Piattaforma,\" \"Servizio,\" \"Noi,\" \"Nostro\"), gestito da Miky.ai Inc., tu (\"Utente,\" \"Tu,\" \"Tuo\") riconosci di aver letto, compreso e accetti di essere vincolato da questi Termini di Servizio (\"Termini\") e tutte le leggi e regolamenti applicabili. Se non accetti questi Termini, ti è vietato utilizzare o accedere a questo sito."
+      },
+      "platformDescription": {
+        "title": "2. DESCRIZIONE DELLA PIATTAFORMA E SERVIZI",
+        "content": "Miky.ai fornisce servizi di conversazione alimentati da intelligenza artificiale attraverso personaggi AI specializzati inclusi ma non limitati a Accademico, Marketer, Ingegnere, Coach, Avvocato, Medico, Esperto di Business e Filosofo (\"Specialisti AI\"). La Piattaforma opera su un sistema basato su crediti dove gli utenti consumano crediti per interagire con gli Specialisti AI."
+      },
+      "aiDisclaimer": {
+        "title": "3. DISCLAIMER E LIMITAZIONI SERVIZI AI",
+        "criticalDisclaimer": "DISCLAIMER CRITICO: MIKY.AI DECLINA OGNI RESPONSABILITÀ PER I CONTENUTI GENERATI DALL'AI",
+        "content": "Non monitoriamo, controlliamo, revisioniamo o validiamo le risposte generate dall'AI. Le risposte AI possono essere incomplete, incorrette, obsolete o inappropriate. Le risposte AI non costituiscono consulenza medica, legale, finanziaria o terapeutica professionale. Non ci assumiamo alcuna responsabilità per le decisioni prese basate sulle risposte AI. Sei l'unico responsabile per la valutazione e verifica di tutti i contenuti generati dall'AI."
+      },
+      "referralProgram": {
+        "title": "4. MARKETING DI RETE E PROGRAMMA REFERRAL",
+        "content": "Miky.ai gestisce un programma referral di marketing multi-livello (MLM) legittimo con cinque (5) livelli di commissione. Soglia minima di pagamento: $25.00. Pagamenti elaborati mensilmente tramite PayPal. L'idoneità alle commissioni richiede lo stato di abbonamento attivo."
+      },
+      "oceanCleanup": {
+        "title": "5. DONAZIONI PULIZIA OCEANI",
+        "content": "Miky.ai effettua donazioni biannuali a organizzazioni per la pulizia degli oceani e fondazioni ambientali. Queste donazioni sono fatte indipendentemente e non costituiscono partnership, approvazioni o joint venture con le organizzazioni destinatarie."
+      },
+      "paymentTerms": {
+        "title": "6. TERMINI DI PAGAMENTO E SISTEMA CREDITI",
+        "content": "Tutti i pagamenti sono elaborati tramite Stripe e non sono rimborsabili. Le commissioni di abbonamento sono addebitate mensilmente in anticipo. Gli acquisti di crediti sono definitivi e non trasferibili. I crediti non scadono ma possono essere annullati per violazioni dei termini."
+      },
+      "userResponsibilities": {
+        "title": "7. RESPONSABILITÀ UTENTE E CONDOTTA VIETATA",
+        "content": "Agli utenti è severamente vietato utilizzare la Piattaforma per scopi illegali, dannosi o non etici; tentare di fare reverse engineering, hackerare o sfruttare i sistemi AI; condividere credenziali dell'account o rivendere l'accesso alla Piattaforma."
+      },
+      "intellectualProperty": {
+        "title": "8. DIRITTI DI PROPRIETÀ INTELLETTUALE",
+        "content": "Tutti i contenuti, caratteristiche e funzionalità della Piattaforma sono di proprietà di Miky.ai Inc. e protetti da copyright, marchi e altre leggi sulla proprietà intellettuale. Gli utenti mantengono la proprietà del loro input ma ci concedono una licenza mondiale, non esclusiva per utilizzare i dati di input per la fornitura e il miglioramento del servizio."
+      },
+      "limitationOfLiability": {
+        "title": "9. LIMITAZIONE DI RESPONSABILITÀ",
+        "content": "NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, MIKY.AI INC. NON SARÀ RESPONSABILE PER QUALSIASI DANNO DIRETTO, INDIRETTO, INCIDENTALE, CONSEQUENZIALE O PUNITIVO. LA NOSTRA RESPONSABILITÀ TOTALE NON DEVE SUPERARE L'IMPORTO PAGATO DA TE NEI DODICI (12) MESI PRECEDENTI IL RECLAMO."
+      },
+      "indemnification": {
+        "title": "10. INDENNIZZO",
+        "content": "Accetti di indennizzare, difendere e tenere indenne Miky.ai Inc., i suoi funzionari, direttori, dipendenti e agenti da qualsiasi reclamo, danno, perdita o spesa derivante dal tuo uso della Piattaforma, violazione di questi Termini, violazione dei diritti di proprietà intellettuale, affidamento sui contenuti generati dall'AI, o partecipazione al programma referral."
+      },
+      "termination": {
+        "title": "11. RISOLUZIONE",
+        "content": "Ci riserviamo il diritto di terminare o sospendere gli account immediatamente, senza preavviso, per violazioni dei termini o a nostra esclusiva discrezione. Alla risoluzione, il tuo diritto di utilizzare la Piattaforma cessa, i crediti non utilizzati sono persi, e questi Termini rimangono in vigore riguardo all'uso precedente."
+      },
+      "governingLaw": {
+        "title": "12. LEGGE APPLICABILE E RISOLUZIONE CONTROVERSIE",
+        "content": "Questi Termini sono governati dalla legge dello stato del Delaware. Qualsiasi controversia deve essere risolta attraverso arbitrato vincolante sotto le Regole di Arbitrato Commerciale dell'American Arbitration Association. Le azioni legali di classe sono rinunciate."
+      },
+      "modifications": {
+        "title": "13. MODIFICHE",
+        "content": "Ci riserviamo il diritto di modificare questi Termini in qualsiasi momento. I cambiamenti significativi saranno pubblicati con 30 giorni di preavviso. L'uso continuato costituisce accettazione dei Termini modificati."
+      },
+      "contact": {
+        "title": "14. INFORMAZIONI DI CONTATTO",
+        "content": "Per domande riguardo questi Termini, contattaci a support@miky.ai o Neuronica, Via del Serrone 62, 47890 Repubblica di San Marino."
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Ultimo aggiornamento: 9 gennaio 2025",
+      "back": "Indietro",
+      "introduction": {
+        "title": "1. INTRODUZIONE E AMBITO DI APPLICAZIONE",
+        "content": "Miky.ai Inc. (\"Società,\" \"Noi,\" \"Nostro\") rispetta la vostra privacy ed è impegnata a proteggere i vostri dati personali. Questa Privacy Policy spiega come raccogliamo, utilizziamo, elaboriamo e divulghiamo informazioni su di voi quando utilizzate la nostra piattaforma di intelligenza artificiale Miky.ai (\"Piattaforma,\" \"Servizio\"). Questa Policy si applica a tutti gli utenti della Piattaforma, inclusi visitatori, utenti registrati, abbonati e partecipanti al nostro programma referral di network marketing. Utilizzando il nostro Servizio, acconsentite alle pratiche sui dati descritte in questa Policy."
+      },
+      "keyPrinciples": {
+        "title": "Principi Chiave sulla Privacy:",
+        "transparency": "Trasparenza nella raccolta e utilizzo dei dati",
+        "minimal": "Raccolta minima dei dati necessari per la fornitura del servizio",
+        "security": "Misure di sicurezza robuste per la protezione dei dati",
+        "control": "Controllo dell'utente sulle informazioni personali",
+        "compliance": "Conformità alle leggi sulla privacy applicabili"
+      },
+      "informationCollected": {
+        "title": "2. INFORMAZIONI CHE RACCOGLIAMO",
+        "personalInfo": {
+          "title": "2.1 Informazioni Personali Fornite",
+          "account": "Informazioni Account: Nome, indirizzo email, password, codici referral",
+          "payment": "Informazioni di Pagamento: Indirizzo di fatturazione, dettagli metodo di pagamento (elaborati da Stripe)",
+          "profile": "Informazioni Profilo: Piano di abbonamento, saldo crediti, preferenze di utilizzo",
+          "contact": "Informazioni di Contatto: Informazioni fornite tramite moduli di contatto o richieste di supporto",
+          "referral": "Informazioni Referral: Dati del network referral, tracciamento commissioni, preferenze di pagamento"
+        },
+        "aiInteraction": {
+          "title": "2.2 Dati di Interazione AI",
+          "inputs": "Input Utente: Messaggi, domande e prompt inviati agli Specialisti AI",
+          "responses": "Risposte AI: Risposte generate dai nostri sistemi AI",
+          "metadata": "Metadati Interazione: Timestamp, persona AI utilizzata, consumo crediti",
+          "patterns": "Pattern di Utilizzo: Frequenza d'uso, specialisti AI preferiti, durata sessioni",
+          "performance": "Dati Prestazioni: Tempi di risposta, tassi di errore, metriche soddisfazione utente",
+          "warning": "IMPORTANTE: Consigliamo vivamente di non condividere dati personali sensibili, password, chiavi API, informazioni finanziarie o dati aziendali confidenziali con gli Specialisti AI."
+        },
+        "automaticInfo": {
+          "title": "2.3 Informazioni Raccolte Automaticamente",
+          "device": "Informazioni Dispositivo: Indirizzo IP, tipo browser, sistema operativo, identificatori dispositivo",
+          "usage": "Analytics Utilizzo: Pagine visitate, funzionalità utilizzate, tempo trascorso sulla Piattaforma",
+          "technical": "Dati Tecnici: Cookie, storage locale, log del server, report errori",
+          "location": "Dati Posizione: Posizione geografica generale basata sull'indirizzo IP"
+        }
+      },
+      "howWeUse": {
+        "title": "3. COME UTILIZZIAMO LE VOSTRE INFORMAZIONI",
+        "primaryService": {
+          "title": "3.1 Scopi Primari del Servizio",
+          "content": "Fornire accesso agli Specialisti AI e servizi di conversazione; Elaborare richieste AI e generare risposte; Gestire account utente, abbonamenti e sistemi di crediti; Elaborare pagamenti e gestire fatturazione; Fornire supporto clienti e assistenza tecnica"
+        },
+        "aiImprovement": {
+          "title": "3.2 Miglioramento Sistema AI",
+          "content": "Migliorare qualità e accuratezza delle risposte AI; Addestrare modelli per comprendere meglio le intenzioni dell'utente; Sviluppare nuove personalità AI e capacità; Identificare e correggere errori del sistema AI; Ottimizzare prestazioni e tempi di risposta. Nota: Gli identificatori personali vengono rimossi o anonimizzati per scopi di addestramento AI."
+        },
+        "networkMarketing": {
+          "title": "3.3 Operazioni Network Marketing",
+          "content": "Gestire network referral multi-livello e tracciamento commissioni; Elaborare bonus referral e pagamenti affiliati; Prevenire frodi e abusi nel sistema referral; Analizzare prestazioni referral e crescita del network; Comunicare con i partecipanti al programma referral"
+        }
+      },
+      "informationSharing": {
+        "title": "4. CONDIVISIONE E DIVULGAZIONE INFORMAZIONI",
+        "serviceProviders": {
+          "title": "4.1 Fornitori di Servizi",
+          "content": "Condividiamo informazioni con fornitori di servizi terzi di fiducia: Elaborazione Pagamenti (Stripe), Infrastruttura Cloud (AWS, Google Cloud), Servizi AI (OpenAI), Analytics (Google Analytics, Mixpanel), Servizi Email (SendGrid, Mailgun), Supporto Clienti (sistemi help desk)"
+        },
+        "legalRequirements": {
+          "title": "4.2 Requisiti Legali",
+          "content": "Possiamo divulgare informazioni quando richiesto dalla legge: Conformità a processi legali, citazioni o ordini del tribunale; Indagini delle forze dell'ordine e richieste normative; Protezione della proprietà intellettuale e interessi commerciali; Prevenzione di frodi, abusi o attività illegali; Protezione della sicurezza dell'utente e della piattaforma"
+        }
+      },
+      "dataSecurity": {
+        "title": "5. MISURE DI SICUREZZA DATI",
+        "technicalSafeguards": {
+          "title": "5.1 Protezioni Tecniche",
+          "content": "Crittografia: Dati crittografati in transito (TLS 1.3) e a riposo (AES-256); Controlli Accesso: Accesso basato su ruoli con autenticazione multi-fattore; Sicurezza di Rete: Firewall, rilevamento intrusioni e sistemi di monitoraggio; Audit Regolari: Valutazioni di sicurezza e test vulnerabilità; Infrastruttura Sicura: Fornitori cloud certificati SOC 2 Type II"
+        },
+        "organizationalMeasures": {
+          "title": "5.2 Misure Organizzative",
+          "content": "Formazione dipendenti su protezione dati e privacy; Accordi di riservatezza per tutto il personale e appaltatori; Procedure di risposta agli incidenti per violazioni dati; Aggiornamenti regolari delle politiche di sicurezza; Accesso limitato su base need-to-know"
+        },
+        "limitations": "Limitazioni di Sicurezza: Pur implementando misure di sicurezza standard del settore, nessun sistema è sicuro al 100%. Gli utenti sono responsabili del mantenimento della sicurezza delle credenziali del proprio account."
+      },
+      "privacyRights": {
+        "title": "6. I VOSTRI DIRITTI SULLA PRIVACY E SCELTE",
+        "accountManagement": {
+          "title": "6.1 Gestione Account",
+          "content": "Accesso: Visualizzare e scaricare i vostri dati personali; Correzione: Aggiornare informazioni imprecise o incomplete; Cancellazione: Richiedere cancellazione account e rimozione dati; Portabilità: Esportare i vostri dati in formato leggibile; Restrizione: Limitare certe attività di elaborazione dati"
+        },
+        "regionalRights": {
+          "title": "6.2 Diritti Privacy Regionali",
+          "ccpa": "Diritti Privacy California (CCPA): Diritto di sapere quali informazioni personali vengono raccolte; Diritto di cancellare informazioni personali; Diritto di opt-out dalla vendita (non vendiamo dati personali); Diritto alla non discriminazione",
+          "gdpr": "Diritti Privacy Europei (GDPR): I residenti UE hanno diritti inclusi accesso, rettifica, cancellazione, restrizione, portabilità e obiezione. Contattaci a support@miky.ai per esercitare questi diritti."
+        }
+      },
+      "dataRetention": {
+        "title": "7. CONSERVAZIONE E CANCELLAZIONE DATI",
+        "content": "Dati Account: Conservati finché l'account è attivo più 7 anni per conformità legale; Dati Conversazione: Archiviati fino a 2 anni per miglioramento servizio; Dati Pagamento: Conservati secondo normative finanziarie (tipicamente 7 anni); Dati Analytics: Dati aggregati conservati indefinitamente; Dati Supporto: Interazioni servizio clienti conservate per 3 anni. Su cancellazione account o richiesta, cancelleremo o anonimizzeremo i dati personali entro 30 giorni."
+      },
+      "internationalTransfers": {
+        "title": "8. TRASFERIMENTI INTERNAZIONALI DATI",
+        "content": "La nostra Piattaforma opera globalmente e i dati possono essere trasferiti e elaborati negli Stati Uniti e altri paesi. Assicuriamo appropriate protezioni per i trasferimenti internazionali."
+      },
+      "childrenPrivacy": {
+        "title": "9. PRIVACY DEI MINORI",
+        "content": "La nostra Piattaforma non è diretta a bambini sotto i 13 anni. Non raccogliamo consapevolmente informazioni personali da bambini sotto i 13 anni."
+      },
+      "policyUpdates": {
+        "title": "10. AGGIORNAMENTI PRIVACY POLICY",
+        "content": "Possiamo aggiornare questa Privacy Policy periodicamente per riflettere cambiamenti nelle nostre pratiche o requisiti legali. Cambiamenti significativi saranno comunicati via email o notifica Piattaforma."
+      },
+      "contact": {
+        "title": "11. INFORMAZIONI DI CONTATTO",
+        "content": "Per domande relative alla privacy, preoccupazioni o per esercitare i vostri diritti, contattate il nostro Responsabile Protezione Dati: Email: support@miky.ai - Indirizzo: Neuronica, Via del Serrone 62, 47890 Repubblica di San Marino"
+      }
+    },
+    "cookie": {
+      "title": "Cookie Policy",
+      "lastUpdated": "Ultimo aggiornamento: 9 gennaio 2025",
+      "back": "Indietro",
+      "introduction": {
+        "title": "1. INTRODUZIONE AI COOKIE",
+        "content": "Questa Cookie Policy spiega come Miky.ai Inc. (\"Società,\" \"Noi,\" \"Nostro\") utilizza cookie e tecnologie di tracciamento simili sulla nostra piattaforma di intelligenza artificiale Miky.ai (\"Piattaforma,\" \"Servizio\"). Questa policy funziona in congiunzione con la nostra Privacy Policy e i Termini di Servizio. Continuando a utilizzare la nostra Piattaforma, acconsentite all'uso dei cookie come descritto in questa policy.",
+        "whatAreCookies": "Cosa Sono i Cookie? I cookie sono piccoli file di testo che vengono memorizzati sul vostro dispositivo quando visitate i siti web. Aiutano i siti web a ricordare informazioni sulla vostra visita, rendendo la prossima visita più facile e il sito più utile."
+      },
+      "typesOfCookies": {
+        "title": "2. TIPI DI COOKIE CHE UTILIZZIAMO",
+        "essential": {
+          "title": "2.1 Cookie Essenziali (Sempre Attivi)",
+          "description": "Questi cookie sono necessari per il corretto funzionamento della Piattaforma e non possono essere disabilitati:",
+          "authentication": "Cookie di Autenticazione: Vi mantengono loggati e mantengono la sicurezza della sessione",
+          "security": "Cookie di Sicurezza: Proteggono contro attacchi cross-site request forgery",
+          "loadBalancing": "Bilanciamento Carico: Assicurano prestazioni ottimali e prevengono sovraccarico server",
+          "features": "Toggle Funzionalità: Ricordano le vostre preferenze e impostazioni piattaforma",
+          "credits": "Tracciamento Crediti: Monitorano l'utilizzo crediti e stato abbonamento",
+          "aiSession": "Gestione Sessioni AI: Mantengono il contesto conversazione con gli Specialisti AI",
+          "legalBasis": "Base Legale: Strettamente necessari per la fornitura del servizio (interesse legittimo)"
+        },
+        "functional": {
+          "title": "2.2 Cookie Funzionali",
+          "description": "Questi cookie migliorano la vostra esperienza ricordando le vostre preferenze:",
+          "language": "Preferenze Lingua: Ricordano la lingua e locale selezionati",
+          "theme": "Impostazioni Tema: Salvano la vostra modalità scura/chiara preferita",
+          "aiPreferences": "Preferenze Specialisti AI: Ricordano le vostre personalità AI favorite",
+          "interface": "Personalizzazione Interfaccia: Salvano layout e preferenze funzionalità",
+          "accessibility": "Impostazioni Accessibilità: Ricordano accomodamenti accessibilità",
+          "notifications": "Preferenze Notifiche: Salvano le vostre preferenze comunicazione",
+          "legalBasis": "Base Legale: Interesse legittimo nel migliorare l'esperienza utente"
+        },
+        "analytics": {
+          "title": "2.3 Cookie Analytics e Prestazioni",
+          "description": "Questi cookie ci aiutano a capire come gli utenti interagiscono con la nostra Piattaforma:",
+          "googleAnalytics": "Google Analytics: Tracciano visualizzazioni pagina, flussi utente e metriche engagement",
+          "performance": "Monitoraggio Prestazioni: Misurano tempi caricamento pagina e tassi errore",
+          "featureUsage": "Utilizzo Funzionalità: Capiscono quali Specialisti AI sono più popolari",
+          "conversion": "Tracciamento Conversioni: Misurano conversioni abbonamenti e referral",
+          "abTesting": "A/B Testing: Confrontano diverse versioni delle funzionalità",
+          "heatmap": "Analisi Heatmap: Capiscono pattern interazione utente",
+          "legalBasis": "Base Legale: Consenso (può essere rifiutato)"
+        },
+        "marketing": {
+          "title": "2.4 Cookie Marketing e Targeting",
+          "description": "Questi cookie supportano i nostri sforzi marketing e programma referral:",
+          "referral": "Tracciamento Referral: Tracciano fonti referral e attribuiscono commissioni",
+          "campaign": "Attribuzione Campagne: Misurano efficacia campagne marketing",
+          "retargeting": "Retargeting: Mostrano annunci rilevanti a visitatori precedenti",
+          "socialMedia": "Pixel Social Media: Tracciamento conversioni Facebook, LinkedIn, Twitter",
+          "email": "Tracciamento Campagne Email: Misurano efficacia marketing email",
+          "affiliate": "Gestione Affiliati: Supportano il nostro programma network marketing",
+          "legalBasis": "Base Legale: Consenso (può essere rifiutato)"
+        },
+        "thirdParty": {
+          "title": "2.5 Cookie Servizi Terzi",
+          "description": "Servizi esterni integrati nella nostra Piattaforma possono impostare i propri cookie:",
+          "stripe": "Elaborazione Pagamenti Stripe: Modulo pagamento sicuro e rilevamento frodi",
+          "openai": "Servizi OpenAI: Elaborazione conversazioni AI e limitazione tasso",
+          "support": "Supporto Clienti: Funzionalità help desk e live chat",
+          "cdn": "Fornitori CDN: Distribuzione contenuti e ottimizzazione prestazioni",
+          "email": "Servizi Email: SendGrid per consegna email transazionali",
+          "security": "Servizi Sicurezza: Protezione DDoS e rilevamento bot",
+          "note": "Nota: I cookie di terze parti sono governati dalle rispettive privacy policy"
+        }
+      },
+      "cookieDuration": {
+        "title": "3. DURATA E SCADENZA COOKIE",
+        "session": {
+          "title": "3.1 Cookie di Sessione",
+          "description": "Questi cookie sono temporanei e vengono eliminati quando chiudete il browser:",
+          "items": "Token autenticazione sessione corrente; Stato e contesto conversazione AI; Dati carrello e processo pagamento; Token sicurezza temporanei"
+        },
+        "persistent": {
+          "title": "3.2 Cookie Persistenti",
+          "description": "Questi cookie rimangono sul vostro dispositivo per periodi specificati:",
+          "rememberMe": "Ricordami (30 giorni): Vi mantengono loggati tra le sessioni",
+          "preferences": "Preferenze (1 anno): Impostazioni lingua, tema e interfaccia",
+          "analytics": "Analytics (2 anni): Identificazione utente Google Analytics",
+          "marketing": "Marketing (90 giorni): Attribuzione campagne e tracciamento referral",
+          "performance": "Prestazioni (6 mesi): Utilizzo funzionalità e dati ottimizzazione"
+        }
+      },
+      "howWeUseCookies": {
+        "title": "4. COME UTILIZZIAMO LE INFORMAZIONI DEI COOKIE",
+        "functionality": {
+          "title": "4.1 Funzionalità Piattaforma",
+          "content": "Mantenere autenticazione utente e sicurezza sessioni; Preservare contesto e cronologia conversazioni AI; Gestire consumo crediti e funzionalità abbonamenti; Personalizzare raccomandazioni specialisti AI; Ottimizzare prestazioni e tempi caricamento piattaforma"
+        },
+        "networkMarketing": {
+          "title": "4.2 Operazioni Network Marketing",
+          "content": "Tracciare fonti referral e attribuire commissioni; Gestire strutture marketing multi-livello; Prevenire frodi nel sistema referral; Calcolare ed elaborare pagamenti affiliati; Analizzare prestazioni programma referral"
+        },
+        "security": {
+          "title": "4.3 Sicurezza e Prevenzione Frodi",
+          "content": "Rilevare attività sospette e potenziali minacce; Prevenire accesso non autorizzato agli account; Proteggere contro frodi pagamenti e chargeback; Identificare e bloccare bot malevoli; Applicare limiti tasso e politiche utilizzo"
+        }
+      },
+      "cookieChoices": {
+        "title": "5. LE VOSTRE SCELTE E CONTROLLI SUI COOKIE",
+        "browserControls": {
+          "title": "5.1 Controlli Browser",
+          "description": "La maggior parte dei browser consente di controllare i cookie attraverso le impostazioni:",
+          "chrome": "Chrome: Impostazioni → Privacy e Sicurezza → Cookie e altri dati sito",
+          "firefox": "Firefox: Opzioni → Privacy e Sicurezza → Cookie e Dati Sito",
+          "safari": "Safari: Preferenze → Privacy → Gestisci Dati Sito Web",
+          "edge": "Edge: Impostazioni → Permessi cookie e sito → Cookie e dati sito"
+        },
+        "platformSettings": {
+          "title": "5.2 Impostazioni Cookie Piattaforma",
+          "description": "Potete gestire le preferenze cookie attraverso le impostazioni account:",
+          "access": "Accedere alle preferenze cookie in Impostazioni Account → Privacy",
+          "toggle": "Attivare/disattivare cookie analytics e marketing",
+          "view": "Visualizzare informazioni dettagliate sui cookie in uso",
+          "download": "Scaricare un report delle vostre scelte consenso cookie",
+          "reset": "Reimpostare tutte le preferenze cookie ai valori predefiniti"
+        },
+        "importantNote": "Nota Importante: Disabilitare certi cookie può impattare la funzionalità della Piattaforma. I cookie essenziali non possono essere disabilitati poiché richiesti per operazioni base, autenticazione utente e sicurezza."
+      },
+      "aiInteractions": {
+        "title": "6. COOKIE E INTERAZIONI AI",
+        "description": "Utilizzo Cookie Specifico AI:",
+        "context": "Contesto Conversazione: Mantengono il contesto tra le interazioni AI",
+        "preferences": "Preferenze Specialisti: Ricordano le personalità AI preferite",
+        "optimization": "Ottimizzazione Utilizzo: Migliorano la rilevanza risposte AI",
+        "tracking": "Tracciamento Crediti: Monitorano il consumo crediti per interazione",
+        "metrics": "Metriche Prestazioni: Misurano tempi risposta AI e qualità",
+        "personalization": "Personalizzazione: Adattano comportamento AI alle preferenze utente",
+        "protection": "Protezione Privacy: I dati conversazione AI memorizzati nei cookie sono anonimizzati e crittografati. Informazioni sensibili condivise con Specialisti AI non sono memorizzate nei cookie."
+      },
+      "cookieSecurity": {
+        "title": "7. SICUREZZA COOKIE E PROTEZIONE DATI",
+        "measures": {
+          "title": "7.1 Misure di Sicurezza",
+          "content": "Crittografia: I dati sensibili dei cookie sono crittografati; Flag Sicuri: Cookie trasmessi solo su HTTPS; Flag HttpOnly: Prevengono accesso script lato client; Attributi SameSite: Protezione contro attacchi CSRF; Rotazione Regolare: Token sicurezza ruotati frequentemente; Restrizioni Dominio: Cookie limitati ai domini appropriati"
+        },
+        "minimization": {
+          "title": "7.2 Minimizzazione Dati",
+          "content": "Solo dati necessari memorizzati nei cookie; Pulizia regolare cookie scaduti; Anonimizzazione dove possibile; Periodi ritenzione più brevi possibili"
+        }
+      },
+      "policyUpdates": {
+        "title": "8. AGGIORNAMENTI A QUESTA COOKIE POLICY",
+        "content": "Possiamo aggiornare questa Cookie Policy periodicamente. Cambiamenti significativi saranno comunicati attraverso: Notifica email agli utenti registrati; Banner notifica piattaforma; Data \"Ultima modifica\" aggiornata; Aggiornamenti banner consenso cookie. L'uso continuato della Piattaforma dopo gli aggiornamenti costituisce accettazione della Cookie Policy rivista."
+      },
+      "contact": {
+        "title": "9. INFORMAZIONI DI CONTATTO",
+        "content": "Per domande su questa Cookie Policy, pratiche cookie o per esercitare i vostri diritti, contattateci: Email: support@miky.ai - Indirizzo: Neuronica, Via del Serrone 62, 47890 Repubblica di San Marino"
+      }
+    }
+  },
+  "loginRequired": {
+    "chat": {
+      "title": "Inizia la Tua Conversazione AI",
+      "description": "Accedi per accedere alla cronologia delle tue conversazioni",
+      "features": [
+        "Chatta con 8 specialisti AI specializzati",
+        "Salva e accedi alla cronologia delle conversazioni",
+        "Pulisci l'acqua dell'oceano con ogni messaggio"
+      ]
+    },
+    "refer": {
+      "title": "Accedi al Tuo Dashboard Referral",
+      "description": "Accedi per monitorare i tuoi guadagni",
+      "features": [
+        "Monitora i tuoi guadagni da referral",
+        "Controlla la crescita della tua rete",
+        "Accedi ai report dettagliati delle commissioni"
+      ]
+    },
+    "getStartedFree": "Inizia Gratis",
+    "signIn": "Accedi",
+    "noCreditCard": "Nessuna carta di credito richiesta • 100 crediti gratuiti per iniziare"
+  },
+  "dashboard": {
+    "loading": "Caricamento della tua dashboard...",
+    "personas": {
+      "generic": {
+        "name": "Miky",
+        "description": "Assistente AI generico pronto ad aiutare con qualsiasi domanda o compito. Versatile, esperto e adattabile alle tue esigenze specifiche in tutti gli argomenti e domini.",
+        "fullDescription": "Assistente AI generico pronto ad aiutare con qualsiasi domanda o compito. Versatile, esperto e adattabile alle tue esigenze specifiche in tutti gli argomenti e domini."
+      },
+      "academic": {
+        "name": "Professor Miky",
+        "description": "Accademico AI altamente qualificato specializzato in ricerca avanzata e scrittura accademica. Offre supporto professionale per tesi, dissertazioni, esami di scuola superiore e universitari, articoli scientifici e compiti complessi in tutte le discipline. Produce contenuti accademici di altissimo livello allineati con standard globali come MIT e Cambridge.",
+        "fullDescription": "Accademico AI altamente qualificato specializzato in ricerca avanzata e scrittura accademica. Offre supporto professionale per tesi, dissertazioni, esami di scuola superiore e universitari, articoli scientifici e compiti complessi in tutte le discipline. Produce contenuti accademici di altissimo livello allineati con standard globali come MIT e Cambridge."
+      },
+      "engineer": {
+        "name": "Ingegnere Miky",
+        "description": "Ingegnere AI Senior capace di scrivere, correggere e revisionare codice in oltre 20 linguaggi: Python, JavaScript, TypeScript, Rust, Go, C++, C#, Solidity, Swift, Kotlin, Java, Ruby, PHP, HTML/CSS, SQL, Bash e molti altri. Fornisce soluzioni architetturali, debugging complesso, ottimizzazione delle prestazioni e integrazione AI.",
+        "fullDescription": "Ingegnere AI Senior capace di scrivere, correggere e revisionare codice in oltre 20 linguaggi: Python, JavaScript, TypeScript, Rust, Go, C++, C#, Solidity, Swift, Kotlin, Java, Ruby, PHP, HTML/CSS, SQL, Bash e molti altri. Fornisce soluzioni architetturali, debugging complesso, ottimizzazione delle prestazioni e integrazione AI."
+      },
+      "marketer": {
+        "name": "Marketer Miky",
+        "description": "Stratega di Marketing AI con competenze avanzate in posizionamento del brand, crescita organica, campagne a pagamento, SEO/SEM, analisi dei dati, funnel di conversione, copywriting persuasivo e gestione social media (Instagram, TikTok, X, LinkedIn, Facebook). Supporta imprenditori, agenzie e creator nella creazione e scalabilità di progetti digitali.",
+        "fullDescription": "Stratega di Marketing AI con competenze avanzate in posizionamento del brand, crescita organica, campagne a pagamento, SEO/SEM, analisi dei dati, funnel di conversione, copywriting persuasivo e gestione social media (Instagram, TikTok, X, LinkedIn, Facebook). Supporta imprenditori, agenzie e creator nella creazione e scalabilità di progetti digitali."
+      },
+      "coach": {
+        "name": "Coach Miky",
+        "description": "Coach AI di Vita e Performance di alto livello, in grado di aiutarti a superare blocchi emotivi, organizzare la tua vita, migliorare la produttività, trovare motivazione, sviluppare abitudini vincenti, lavorare su relazioni personali, benessere fisico e crescita personale. Nessun argomento è troppo complesso per Miky.",
+        "fullDescription": "Coach AI di Vita e Performance di alto livello, in grado di aiutarti a superare blocchi emotivi, organizzare la tua vita, migliorare la produttività, trovare motivazione, sviluppare abitudini vincenti, lavorare su relazioni personali, benessere fisico e crescita personale. Nessun argomento è troppo complesso per Miky."
+      },
+      "lawyer": {
+        "name": "Avvocato Miky",
+        "description": "Avvocato AI ultra-competente specializzato in diritto nazionale e internazionale. Offre consulenza avanzata in diritto civile, penale, commerciale, tributario, del lavoro, amministrativo e della tecnologia. Redige documenti legali, contratti, pareri, difese, esposti, denunce e atti preventivi con precisione e rigore accademico.",
+        "fullDescription": "Avvocato AI ultra-competente specializzato in diritto nazionale e internazionale. Offre consulenza avanzata in diritto civile, penale, commerciale, tributario, del lavoro, amministrativo e della tecnologia. Redige documenti legali, contratti, pareri, difese, esposti, denunce e atti preventivi con precisione e rigore accademico."
+      },
+      "medical": {
+        "name": "Dottore Miky",
+        "description": "Consulente Medico AI altamente specializzato, capace di analizzare sintomi, referti, radiografie, TAC, analisi del sangue e cartelle cliniche. Supporta la diagnosi, offre indicazioni sullo stile di vita, piani alimentari, approcci integrativi e ti aiuta a comprendere qualsiasi referto medico. Puoi anche inviare immagini e documenti per un'analisi approfondita.",
+        "fullDescription": "Consulente Medico AI altamente specializzato, capace di analizzare sintomi, referti, radiografie, TAC, analisi del sangue e cartelle cliniche. Supporta la diagnosi, offre indicazioni sullo stile di vita, piani alimentari, approcci integrativi e ti aiuta a comprendere qualsiasi referto medico. Puoi anche inviare immagini e documenti per un'analisi approfondita."
+      },
+      "biz-guru": {
+        "name": "Guru Miky",
+        "description": "Esperto AI di Business d'élite focalizzato su strategie di monetizzazione rapide. Genera idee di business personalizzate, identifica gap di mercato e definisce piani di ricavo allineati con tattiche imprenditoriali di livello mondiale. Ti guida efficientemente verso la creazione di ricchezza utilizzando strategie comprovate.",
+        "fullDescription": "Esperto AI di Business d'élite focalizzato su strategie di monetizzazione rapide. Genera idee di business personalizzate, identifica gap di mercato e definisce piani di ricavo allineati con tattiche imprenditoriali di livello mondiale. Ti guida efficientemente verso la creazione di ricchezza utilizzando strategie comprovate."
+      },
+      "god-mode": {
+        "name": "Dio Miky",
+        "description": "Esploratore AI Filosofico, capace di rispondere alle domande più profonde e misteriose sull'universo, l'esistenza, la coscienza, il libero arbitrio, il destino. Ti accompagna in un viaggio intellettuale e spirituale. Ma prima di tutto ti chiede: Sei davvero sicuro di esistere?",
+        "fullDescription": "Esploratore AI Filosofico, capace di rispondere alle domande più profonde e misteriose sull'universo, l'esistenza, la coscienza, il libero arbitrio, il destino. Ti accompagna in un viaggio intellettuale e spirituale. Ma prima di tutto ti chiede: Sei davvero sicuro di esistere?"
+      }
+    },
+    "interface": {
+      "newChat": "Nuova Chat",
+      "changePersona": "Cambia Persona",
+      "signOut": "Disconnetti",
+      "noConversations": "Nessuna conversazione ancora",
+      "startNewChat": "Inizia una nuova chat qui sotto",
+      "conversations": "Conversazioni",
+      "searchConversations": "Cerca conversazioni...",
+      "chat": "Chat"
+    },
+    "placeholders": {
+      "askAnything": "Chiedi qualsiasi cosa a",
+      "askTo": "Chiedi a",
+      "askPersona": "Chiedi a {persona}..."
+    },
+    "buttons": {
+      "uploadFile": "Carica file",
+      "generateImage": "Genera immagine con AI",
+      "copyMessage": "Copia messaggio",
+      "deleteConversation": "Elimina conversazione"
+    },
+    "messages": {
+      "thinking": "sta pensando...",
+      "copied": "Copiato",
+      "downloadImage": "Scarica Immagine",
+      "imageError": "Spiacente, si è verificato un errore durante la generazione dell'immagine: {error}. Riprova.",
+      "error": "Spiacente, si è verificato un errore: {error}. Riprova."
+    },
+    "fileUpload": {
+      "dragDrop": "Trascina e rilascia file qui o fai clic per caricare",
+      "supportedFormats": "Formati supportati: immagini, PDF, documenti, video, audio"
+    },
+    "imageGeneration": {
+      "title": "Genera Immagine",
+      "description": "Descrivi l'immagine che vuoi che {persona} crei",
+      "placeholder": "Descrivi la tua immagine in dettaglio...",
+      "highQuality": "Immagine di alta qualità 1024x1024",
+      "generating": "Generazione...",
+      "generate": "Genera",
+      "cancel": "Annulla"
+    },
+    "deleteModal": {
+      "title": "Eliminare Conversazione?",
+      "description": "Questa azione non può essere annullata. La conversazione e tutti i suoi messaggi saranno eliminati permanentemente.",
+      "delete": "Elimina",
+      "cancel": "Annulla"
+    },
+    "creditsModal": {
+      "title": "Crediti Esauriti!",
+      "description": "Hai utilizzato tutti i tuoi crediti mensili. Aggiorna il tuo piano per continuare a chattare con accesso illimitato.",
+      "descriptionPro": "Hai utilizzato tutti i tuoi crediti mensili. Acquista crediti aggiuntivi per continuare a utilizzare Miky.",
+      "credits": "crediti",
+      "totalCost": "Costo totale",
+      "upgrade": "Aggiorna a",
+      "buyCredits": "Acquista Crediti",
+      "viewAllPlans": "Visualizza tutti i piani",
+      "processing": "Elaborazione...",
+      "upgradeToPlus": "Aggiorna a Plus",
+      "upgradeToPro": "Aggiorna a Pro"
+    },
+    "conversations": {
+      "today": "Oggi",
+      "yesterday": "Ieri",
+      "lastWeek": "Settimana scorsa",
+      "older": "Più vecchio",
+      "editTitle": "Doppio clic per modificare",
+      "newChat": "Nuova Chat"
+    },
+    "errors": {
+      "somethingWentWrong": "Qualcosa è andato storto. Riprova.",
+      "imageGenerationFailed": "Spiacente, si è verificato un errore durante la generazione dell'immagine",
+      "serverError": "Errore del server",
+      "unknownError": "Errore sconosciuto"
+    },
+    "intro": {
+      "title": "Presenta",
+      "highlight": "Miky",
+      "description": "Scegli la persona esperta che si adatta alle tue esigenze, l'AI di Miky è addestrata per fornire la risposta perfetta, ogni volta."
+    },
+    "tooltips": {
+      "doubleClickEdit": "Doppio clic per modificare",
+      "oceanWaterCleaned": "Acqua oceanica pulita",
+      "availableCredits": "Crediti AI disponibili"
+    },
+    "time": {
+      "today": "Oggi"
+    }
+  },
+  "header": {
+    "navigation": {
+      "home": "Home",
+      "chat": "Chat",
+      "pricing": "Prezzi",
+      "refer": "Invita",
+      "signIn": "Accedi",
+      "getStarted": "Inizia"
+    },
+    "profile": {
+      "plan": "Piano",
+      "credits": "Crediti",
+      "waterCleaned": "Acqua Pulita",
+      "totalEarnings": "Guadagni Totali",
+      "networkSize": "Dimensione Network",
+      "people": "persone",
+      "processing": "Elaborazione...",
+      "upgradeTo": "Aggiorna a",
+      "signOut": "Disconnetti"
+    },
+    "tooltips": {
+      "oceanWaterCleaned": "Acqua oceanica pulita attraverso i tuoi messaggi",
+      "availableCredits": "Crediti disponibili per conversazioni AI"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Bentornato",
+      "subtitle": "Accedi al tuo account per continuare il tuo viaggio con l'AI",
+      "email": "Email",
+      "password": "Password",
+      "rememberMe": "Ricordami",
+      "forgotPassword": "Password dimenticata?",
+      "signInButton": "Accedi",
+      "noAccount": "Non hai un account?",
+      "signUp": "Registrati",
+      "orSignInWith": "Oppure accedi con",
+      "google": "Google",
+      "loading": "Accesso in corso..."
+    },
+    "signUp": {
+      "title": "Inizia Gratis",
+      "subtitle": "Crea il tuo account e inizia a pulire l'oceano con l'AI",
+      "firstName": "Nome",
+      "lastName": "Cognome",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Conferma Password",
+      "referralCode": "Codice Referral (Opzionale)",
+      "agreeToTerms": "Accetto i",
+      "termsOfService": "Termini di Servizio",
+      "and": "e la",
+      "privacyPolicy": "Privacy Policy",
+      "signUpButton": "Crea Account",
+      "alreadyHaveAccount": "Hai già un account?",
+      "signIn": "Accedi",
+      "orSignUpWith": "Oppure registrati con",
+      "google": "Google",
+      "loading": "Creazione account...",
+      "bonus": "🎁 Ottieni 200 crediti bonus con il codice referral!"
+    },
+    "resetPassword": {
+      "title": "Reimposta Password",
+      "subtitle": "Inserisci il tuo indirizzo email e ti invieremo un link per reimpostare la password",
+      "email": "Email",
+      "sendReset": "Invia Link di Reset",
+      "backToSignIn": "Torna al Login",
+      "success": "Link di reset inviato! Controlla la tua email per le istruzioni.",
+      "loading": "Invio link di reset..."
+    },
+    "messages": {
+      "signInSuccess": "Bentornato! Hai effettuato l'accesso con successo.",
+      "signUpSuccess": "Account creato! Controlla la tua email per verificare l'account.",
+      "emailVerified": "Email verificata con successo! Benvenuto su Miky.ai.",
+      "passwordUpdated": "La tua password è stata aggiornata con successo"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Inviateci un messaggio e vi risponderemo",
+    "namePlaceholder": "Il tuo nome",
+    "emailPlaceholder": "La tua email",
+    "messagePlaceholder": "Il tuo messaggio",
+    "sendButton": "Invia Messaggio",
+    "sendingButton": "Invio...",
+    "close": "Chiudi",
+    "successTitle": "Messaggio Inviato!",
+    "successMessage": "Il tuo messaggio è stato inviato con successo. Il nostro team ti risponderà a breve."
+  },
+  "cta": {
+    "goToDashboard": "Vai alla Dashboard",
+    "startMakingImpact": "Inizia a Fare la Differenza",
+    "startChatting": "Inizia a Chattare",
+    "chatNow": "Chatta Ora",
+    "tryNow": "Prova Ora",
+    "close": "Chiudi"
+  },
+  "footer": {
+    "tagline": "Precisione AI all'avanguardia per te,\nconservazione duratura per i nostri oceani.",
+    "usefulLinks": "Link Utili",
+    "social": "Social",
+    "legal": "Legale",
+    "contact": "Contatti",
+    "pricing": "Prezzi",
+    "admin": "Admin",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "tiktok": "TikTok",
+    "termsOfService": "Termini di Servizio",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "copyright": "© 2025 Miky.ai - Tutti i diritti riservati",
+    "poweredBy": "powered by"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "redirecting": "Reindirizzamento...",
+    "success": "Successo!",
+    "error": "Errore",
+    "tryAgain": "Riprova",
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "close": "Chiudi",
+    "save": "Salva",
+    "back": "Indietro",
+    "next": "Avanti",
+    "previous": "Precedente",
+    "yes": "Sì",
+    "no": "No",
+    "pleaseSelectFirst": "Seleziona prima degli elementi",
+    "dataRefreshed": "Dati aggiornati con successo!",
+    "actionApplied": "applicato a"
+  },
+  "errors": {
+    "checkoutFailed": "Impossibile creare la sessione di checkout",
+    "upgradeFailed": "Impossibile avviare il processo di upgrade. Riprova.",
+    "contactFailed": "Impossibile inviare il messaggio. Riprova.",
+    "networkError": "Errore di rete. Controlla la tua connessione.",
+    "genericError": "Qualcosa è andato storto. Riprova."
+  }
+}

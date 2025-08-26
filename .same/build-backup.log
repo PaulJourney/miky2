@@ -1,0 +1,83 @@
+$ next build
+   ▲ Next.js 15.3.2
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 7.0s
+   Skipping validation of types
+   Skipping linting
+   Collecting page data ...
+   Generating static pages (0/48) ...
+   Generating static pages (12/48) 
+   Generating static pages (24/48) 
+   Generating static pages (36/48) 
+ ✓ Generating static pages (48/48)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                      184 B         101 kB
+├ ○ /_not-found                            981 B         102 kB
+├ ● /[locale]                            7.55 kB         220 kB
+├   ├ /en
+├   ├ /it
+├   └ /es
+├ ● /[locale]/chat                       3.23 kB         215 kB
+├   ├ /en/chat
+├   ├ /it/chat
+├   └ /es/chat
+├ ● /[locale]/how-it-works               4.97 kB         215 kB
+├   ├ /en/how-it-works
+├   ├ /it/how-it-works
+├   └ /es/how-it-works
+├ ● /[locale]/legal/cookie                2.6 kB         210 kB
+├   ├ /en/legal/cookie
+├   ├ /it/legal/cookie
+├   └ /es/legal/cookie
+├ ● /[locale]/legal/privacy              2.29 kB         210 kB
+├   ├ /en/legal/privacy
+├   ├ /it/legal/privacy
+├   └ /es/legal/privacy
+├ ● /[locale]/legal/terms                 1.9 kB         210 kB
+├   ├ /en/legal/terms
+├   ├ /it/legal/terms
+├   └ /es/legal/terms
+├ ● /[locale]/pricing                    5.85 kB         218 kB
+├   ├ /en/pricing
+├   ├ /it/pricing
+├   └ /es/pricing
+├ ● /[locale]/refer                      8.48 kB         224 kB
+├   ├ /en/refer
+├   ├ /it/refer
+├   └ /es/refer
+├ ○ /admin                               12.2 kB         220 kB
+├ ƒ /api/auth/verify                       184 B         101 kB
+├ ƒ /api/chat                              184 B         101 kB
+├ ƒ /api/contact                           184 B         101 kB
+├ ƒ /api/conversations                     184 B         101 kB
+├ ƒ /api/conversations/[id]/messages       184 B         101 kB
+├ ƒ /api/network                           184 B         101 kB
+├ ƒ /api/profile                           184 B         101 kB
+├ ƒ /api/stripe/checkout                   184 B         101 kB
+├ ƒ /api/stripe/manage-subscription        184 B         101 kB
+├ ƒ /api/stripe/webhook                    184 B         101 kB
+├ ƒ /api/test-signup                       184 B         101 kB
+├ ƒ /api/upload                            184 B         101 kB
+├ ƒ /api/withdrawal-request                184 B         101 kB
+├ ○ /auth/reset-password                 4.35 kB         191 kB
+├ ○ /auth/verify                         2.39 kB         151 kB
+├ ○ /chat                                2.71 kB         144 kB
+├ ○ /dashboard                             46 kB         259 kB
+├ ○ /how-it-works                          184 B         101 kB
+├ ○ /pricing                               665 B         103 kB
+└ ○ /refer                                 664 B         103 kB
++ First Load JS shared by all             101 kB
+  ├ chunks/1684-ffa072f05f009c5b.js      45.9 kB
+  ├ chunks/4bd1b696-9bdb993cb83df1b2.js  53.2 kB
+  └ other shared chunks (total)          2.02 kB
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+
