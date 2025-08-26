@@ -62,38 +62,6 @@ export async function signUp(email: string, password: string, fullName: string, 
     }
 
     if (data.user) {
-<<<<<<< HEAD
-      // Create or update profile with user info
-      const { error: profileError } = await supabase
-        .from('profiles')
-        .upsert({
-          id: data.user.id,
-          email: email.toLowerCase(),
-          full_name: fullName,
-          referral_code: generateReferralCode(email),
-          referred_by: referralCode || null,
-          credits: 100,
-          water_cleaned_liters: 0,
-          subscription_plan: 'free',
-          subscription_status: 'active',
-          referral_level: 1,
-          total_referral_earnings: 0,
-          pending_payout: 0,
-          language: 'en',
-          is_admin: false,
-          is_mock: false
-        }, {
-          onConflict: 'id'
-        })
-
-      if (profileError) {
-        console.error('Profile creation error:', profileError)
-        // Don't fail the signup if profile creation fails
-      }
-
-      // Email verification will be handled by Supabase
-      // Supabase will send the verification email automatically
-=======
       // Il profilo viene creato automaticamente dal trigger database
       // Non serve crearlo manualmente qui
 
@@ -125,7 +93,6 @@ export async function signUp(email: string, password: string, fullName: string, 
         console.error('Email sending error:', emailError)
         // Non bloccare la registrazione se l'email fallisce
       }
->>>>>>> ea674b6 (Complete registration system implementation)
     }
 
     return { data, error: null }
